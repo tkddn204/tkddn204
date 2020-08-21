@@ -1,5 +1,5 @@
-<p align="center">
-  <b> 👋 Hello, I'm Rightpair.</b>
+<p>
+  <h3 align="center">👋 Hello, I'm Rightpair.</h3>
 </p>
 
 <p align="center">
