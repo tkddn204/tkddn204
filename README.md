@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I'm junior <ins>front-end</ins><sub>(focus)</sub> developer.
+  I'm junior :octocat: web developer :)
   <br/>
   <img width="24px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img width="24px" src="https://img.icons8.com/ultraviolet/40/000000/react.png" />
