@@ -1,8 +1,8 @@
 <p>
   <h3 align="center">👋 Hello, hitchhiker.</h3>
   <div align="center">
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkddn204&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=tkddn204e&style=flat-square" />
     </a>
   </div>
 </p>
